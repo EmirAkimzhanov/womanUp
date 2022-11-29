@@ -1,0 +1,15 @@
+.mainBlock{
+    display: flex;
+    justify-content: space-around;
+    height: 1000px;
+}
+.title{
+    text-align: center;
+}
+.btn{
+    width: 60px;
+    height: 55px;
+    border-radius: 50%;
+    border: none;
+    background-color: green;
+}
